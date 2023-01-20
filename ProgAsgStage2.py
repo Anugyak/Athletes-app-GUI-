@@ -1,6 +1,4 @@
-##Name and ID
-##Date created: 24 Feb, 2022
-##Date last changed: 24 Feb, 2022
+
 ##This program prints the list of first name of the athletes and when clicked on the name of any athletes displays all the details of respective athletes
 ## and takes the input of sports in the entry widget and displays the first name of the athletes of respective sport
 
